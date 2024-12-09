@@ -1,0 +1,11 @@
+body{
+    margin: 0%;
+}
+.banner{
+    position: relative;
+    background-image: url(https://plus.unsplash.com/premium_photo-1701590725747-ac131d4dcffd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2Vic2l0ZSUyMGJhbm5lcnxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+}
